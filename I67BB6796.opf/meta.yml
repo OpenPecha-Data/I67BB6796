@@ -1,0 +1,16 @@
+id: I67BB6796
+default_language: en
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 16:10:32.645939
+last_modified: 2023-02-08 16:10:32.646044
+source_metadata:
+  title: 'Aśvaghoṣa: Buddhacarita'
+  language: en
+bases:
+  929B:
+    base_file: 929B.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
